@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcaa2c19.chunk.css",
+    "main.js": "/static/js/main.9bc3e304.chunk.js",
+    "main.js.map": "/static/js/main.9bc3e304.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3dd5b14a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3dd5b14a.js.map",
+    "static/js/2.d355f3df.chunk.js": "/static/js/2.d355f3df.chunk.js",
+    "static/js/2.d355f3df.chunk.js.map": "/static/js/2.d355f3df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bcaa2c19.chunk.css.map": "/static/css/main.bcaa2c19.chunk.css.map",
+    "static/js/2.d355f3df.chunk.js.LICENSE.txt": "/static/js/2.d355f3df.chunk.js.LICENSE.txt",
+    "static/media/01233b05-5cd1-4256-be82-d6ef9e743b86.a0aa3174.jpg": "/static/media/01233b05-5cd1-4256-be82-d6ef9e743b86.a0aa3174.jpg",
+    "static/media/cbdf6106-2060-4f1a-b57e-6b87a67f5a5e.71664950.jpg": "/static/media/cbdf6106-2060-4f1a-b57e-6b87a67f5a5e.71664950.jpg",
+    "static/media/react-logo.d1d00361.jpg": "/static/media/react-logo.d1d00361.jpg",
+    "static/media/react-native-logo.d1c65d60.jpg": "/static/media/react-native-logo.d1c65d60.jpg",
+    "static/media/typescript-logo.5415cac2.jpg": "/static/media/typescript-logo.5415cac2.jpg",
+    "static/media/webpack-logo.47692505.jpg": "/static/media/webpack-logo.47692505.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd5b14a.js",
+    "static/js/2.d355f3df.chunk.js",
+    "static/css/main.bcaa2c19.chunk.css",
+    "static/js/main.9bc3e304.chunk.js"
+  ]
+}
